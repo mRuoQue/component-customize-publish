@@ -1,6 +1,6 @@
 {
   "name": "huajay-link",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "huajay-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
